@@ -1,0 +1,14 @@
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\bin\Debug\netcoreapp3.1\falilyTreeAssignment.exe
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\bin\Debug\netcoreapp3.1\falilyTreeAssignment.deps.json
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\bin\Debug\netcoreapp3.1\falilyTreeAssignment.runtimeconfig.json
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\bin\Debug\netcoreapp3.1\falilyTreeAssignment.runtimeconfig.dev.json
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\bin\Debug\netcoreapp3.1\falilyTreeAssignment.dll
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\bin\Debug\netcoreapp3.1\falilyTreeAssignment.pdb
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\obj\Debug\netcoreapp3.1\falilyTreeAssignment.csproj.AssemblyReference.cache
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\obj\Debug\netcoreapp3.1\falilyTreeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\obj\Debug\netcoreapp3.1\falilyTreeAssignment.AssemblyInfoInputs.cache
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\obj\Debug\netcoreapp3.1\falilyTreeAssignment.AssemblyInfo.cs
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\obj\Debug\netcoreapp3.1\falilyTreeAssignment.csproj.CoreCompileInputs.cache
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\obj\Debug\netcoreapp3.1\falilyTreeAssignment.dll
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\obj\Debug\netcoreapp3.1\falilyTreeAssignment.pdb
+D:\Users\XP.Vamshi.Govindhu\dotnet\falilyTreeAssignment\falilyTreeAssignment\obj\Debug\netcoreapp3.1\falilyTreeAssignment.genruntimeconfig.cache
